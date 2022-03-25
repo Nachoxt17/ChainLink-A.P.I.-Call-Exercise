@@ -12,6 +12,7 @@ contract GetAPI is ChainlinkClient {
   
     bytes32 public volume;
     
+    //+-This is ChainLink Node Operator Oracle Address, it will change depending on the E.V.M. Chain Used (ETH, Polygon, etc):_
     address private oracle;
     bytes32 private jobId;
     uint256 private fee;
