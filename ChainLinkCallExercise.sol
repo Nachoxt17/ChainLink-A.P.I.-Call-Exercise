@@ -1,8 +1,8 @@
 pragma solidity ^0.6.0;
 /**+-Tutorials:_
 https://youtu.be/pgf8Prwibio
-https://dapp-world.com/smartbook/call-any-api-in-smart-contract-partii-J8hn
 https://dapp-world.com/smartbook/call-any-api-in-smart-contract-parti-f77z
+https://dapp-world.com/smartbook/call-any-api-in-smart-contract-partii-J8hn
 */
 
 import "@chainlink/contracts/src/v0.6/ChainlinkClient.sol";
